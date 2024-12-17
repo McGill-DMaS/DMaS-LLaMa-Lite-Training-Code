@@ -1,7 +1,3 @@
-Here’s the draft for your `README.md`:
-
----
-
 # DMaS-LLaMa-Lite: 1.7B-Parameter LLaMa Model Training Code
 
 This repository contains the training scripts and configuration files for **DMaS-LLaMa-Lite**, a 1.7B-parameter model inspired by the LLaMa architecture and trained from scratch on approximately 20 billion tokens of curated high-quality data.
