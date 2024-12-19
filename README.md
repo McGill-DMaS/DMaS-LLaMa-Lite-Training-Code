@@ -16,7 +16,7 @@ DMaS-LLaMa-Lite is a **1.7B-parameter LLaMa-based language model** pretrained wi
 For more details, refer to our paper:  
 > **Experience of Training a 1.7B-Parameter LLaMa Model From Scratch**  
 > *Miles Q Li, Benjamin Fung, Shih-Chia Huang* (2024)  
-> [arXiv preprint link](https://arxiv.org)  
+> [arXiv preprint link](https://arxiv.org/abs/2412.13335)  
 
 ---
 
