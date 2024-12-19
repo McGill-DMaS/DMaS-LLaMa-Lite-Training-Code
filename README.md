@@ -28,7 +28,7 @@ If you use this repository or the pre-trained model, please cite our work:
 @article{li2024effectiveness,
   title={Experience of Training a 1.7B-Parameter LLaMa Model From Scratch},
   author={Li, Miles Q and Fung, Benjamin and Huang, Shih-Chia},
-  journal={arXiv preprint arXiv},
+  journal={arXiv preprint arXiv:2412.13335},
   year={2024}
 }
 ```
