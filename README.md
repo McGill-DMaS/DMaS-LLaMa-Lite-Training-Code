@@ -25,11 +25,15 @@ For more details, refer to our paper:
 If you use this repository or the pre-trained model, please cite our work:
 
 ```bibtex
-@article{li2024effectiveness,
-  title={Experience of Training a 1.7B-Parameter LLaMa Model From Scratch},
-  author={Li, Miles Q and Fung, Benjamin and Huang, Shih-Chia},
-  journal={arXiv preprint arXiv:2412.13335},
-  year={2024}
+@inproceedings{LFH25ijcnn,
+        author = "M. Q. Li and B. C. M. Fung and S.-C. Huang",
+        title = "Training dynamics of a 1.7B {LLaMa} model: a data-efficient approach",
+        booktitle = "Proc. of the IEEE International Joint Conference on Neural Networks (IJCNN),
+        pages = "",
+        address = "Rome, Italy",
+        month = "July",
+        year = "2025",
+        publisher = "IEEE Press",
 }
 ```
 
