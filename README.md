@@ -25,16 +25,16 @@ For more details, refer to our paper:
 If you use this repository or the pre-trained model, please cite our work:
 
 ```bibtex
-@inproceedings{LFH25ijcnn,
-        author = "M. Q. Li and B. C. M. Fung and S.-C. Huang",
-        title = "Training dynamics of a 1.7B {LLaMa} model: a data-efficient approach",
-        booktitle = "Proc. of the IEEE International Joint Conference on Neural Networks (IJCNN),
-        pages = "",
-        address = "Rome, Italy",
-        month = "July",
-        year = "2025",
-        publisher = "IEEE Press",
-}
+@INPROCEEDINGS{11228044,
+  author={Li, Miles Q. and Fung, Benjamin C. M. and Huang, Shih-Chia},
+  booktitle={2025 International Joint Conference on Neural Networks (IJCNN)},
+  title={Training Dynamics of a 1.7B LLaMa Model: A Data-Efficient Approach},
+  year={2025},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Training;Analytical models;Refining;Benchmark testing;Throughput;Data models;Hardware;Stability analysis;Trajectory;Tuning},
+  doi={10.1109/IJCNN64981.2025.11228044}}
 ```
 
 ---
