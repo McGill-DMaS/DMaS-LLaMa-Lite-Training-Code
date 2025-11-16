@@ -25,7 +25,7 @@ For more details, refer to our paper:
 If you use this repository or the pre-trained model, please cite our work:
 
 ```bibtex
-@INPROCEEDINGS{11228044,
+@INPROCEEDINGS{li2025training,
   author={Li, Miles Q. and Fung, Benjamin C. M. and Huang, Shih-Chia},
   booktitle={2025 International Joint Conference on Neural Networks (IJCNN)},
   title={Training Dynamics of a 1.7B LLaMa Model: A Data-Efficient Approach},
